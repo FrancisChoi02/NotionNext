@@ -10,8 +10,9 @@ const BLOG = {
   SINCE: 2022, // e.g if leave this empty, current year will be used.
   APPEARANCE: 'light', // ['light', 'dark', 'auto'], // light 日间模式 ， dark夜间模式， auto根据时间和主题自动夜间模式
 
+  //个人信息介绍
   AUTHOR: 'FrancisChoi', // 作者
-  BIO: 'CryptoBuilder🍚', // 作者简介
+  BIO: 'Crypto Builder🍚', // 作者简介
   LINK: 'NULL', // 网站地址
   KEYWORDS: 'Notion, 博客', // 网站关键词 英文逗号隔开
   // 社交链接，不需要可留空白，例如 CONTACT_WEIBO:''
