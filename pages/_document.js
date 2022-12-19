@@ -17,7 +17,6 @@ class MyDocument extends Document {
           <link rel='icon' href='/favicon.svg' type='image/svg+xml' />
           <CommonScript />
         </Head>
-
         <body className={'tracking-wider subpixel-antialiased bg-day dark:bg-night'}>
             <Main />
             <NextScript />
